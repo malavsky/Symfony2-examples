@@ -1,0 +1,3 @@
+lessons_security_homepage:
+    path:     security/hello/{name}
+    defaults: { _controller: LessonsSecurityBundle:Default:index }

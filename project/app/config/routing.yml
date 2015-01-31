@@ -1,3 +1,6 @@
+lessons_security:
+    resource: "@LessonsSecurityBundle/Resources/config/routing.yml"
+    prefix:   /
 
 lesons_bundle:
     resource: "@DIAndUnitTestsBundle/Resources/config/routing.yml"
